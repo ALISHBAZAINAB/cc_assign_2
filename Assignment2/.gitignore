@@ -1,0 +1,9 @@
+.terraform/
+*.tfstate
+*.tfstate.*
+*.log
+*.pem
+terraform.tfvars
+aws/
+anscliv2.zip
+.DS_STORE
